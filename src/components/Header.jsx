@@ -73,8 +73,8 @@ const Header = () => {
         >
           New account
         </a>
-        <Button className="hidden lg:flex" href="https://quantum-image.vercel.app/">
-          Try Now
+        <Button className="hidden lg:flex" href="https://milaap.org/fundraisers/support-zaid-28?deeplink_type=paytm">
+          Fund Us 
         </Button>
 
         <Button
