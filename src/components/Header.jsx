@@ -71,7 +71,7 @@ const Header = () => {
           href="https://quantum-image.vercel.app/"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
-          New account
+          Try Now
         </a>
         <Button className="hidden lg:flex" href="https://milaap.org/fundraisers/support-zaid-28?deeplink_type=paytm">
           Fund Us 

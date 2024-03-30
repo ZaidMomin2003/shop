@@ -59,14 +59,14 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "New account",
-    url: "#signup",
+    title: "Try Now",
+    url: "https://quantum-image.vercel.app/",
     onlyMobile: true,
   },
   {
     id: "5",
-    title: "Sign in",
-    url: "#login",
+    title: "Fund me",
+    url: "https://milaap.org/fundraisers/support-zaid-28?deeplink_type=paytm",
     onlyMobile: true,
   },
 ];
