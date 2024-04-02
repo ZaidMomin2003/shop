@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Generative AI made for creators."
-          text="Quantum Images unlocks the potential of AI-powered Media innovations"
+          text="Magic Snaps unlocks the potential of AI-powered Media innovations"
         />
 
         <div className="relative">
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Fastest AI</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Quantum Images unlocks the potential of AI-powered Media innovations
+                Magic Snaps unlocks the potential of AI-powered Media innovations
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (

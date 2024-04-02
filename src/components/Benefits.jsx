@@ -11,7 +11,7 @@ const Benefits = () => {
       <div className="container relative z-2">
         <Heading
           className="md:max-w-md lg:max-w-2xl"
-          title="Innovate Smarter, Not Harder with Quantum Images"
+          title="Innovate Smarter, Not Harder with Magic Snaps"
         />
 
         <div className="flex flex-wrap gap-10 mb-10">
@@ -34,9 +34,8 @@ const Benefits = () => {
                     alt={item.title}
                   />
                   <p className="ml-auto font-code text-xs font-bold text-n-1 uppercase tracking-wider">
-                    Explore more
-                  </p>
-                  <Arrow />
+                    
+                  </p>                  
                 </div>
               </div>
 

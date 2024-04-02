@@ -250,7 +250,7 @@ export const benefits = [
   {
     id: "0",
     title: "Image Restore",
-    text: "Restore old images or memories quickly like they were never old",
+    text: "Restore old images or memories quickly like they were never old, Upload image and see magic. Update old memories by uploading old memories",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -258,7 +258,7 @@ export const benefits = [
   {
     id: "1",
     title: "Generative Fill",
-    text: "Convert landscape image to mobile portrait and vice versa using AI.  (Give it a try, its magic)",
+    text: "Convert landscape image to mobile portrait and vice versa using AI in seconds. Never regret of awful dimensions again, Convert them to your desired (Give it a try, its magic)",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -267,7 +267,7 @@ export const benefits = [
   {
     id: "2",
     title: "Object Remover",
-    text: "Upload the image, write object name and our AI will remove it as it never existed. Give it a try",
+    text: "Time is over where you mess your head because of some UNWANTED GUESTS in picture. Worry not, Upload the image, write object name and our AI will remove it as it never existed. Give it a try",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -292,7 +292,7 @@ export const benefits = [
   {
     id: "5",
     title: "FREE",
-    text: "The best thing, Use all this Next Gen Features for free of cost, Sign in now",
+    text: "The best thing, Use all this Next Gen Features for free of cost, Sign up now to avail some wild benefits",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,

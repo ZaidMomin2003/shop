@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Quantum Images"
+          tag="Get started with Magic Snaps"
           title="Pay now, Explore possiblities"
         />
 
